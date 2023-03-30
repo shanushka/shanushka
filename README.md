@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/Anushka-Shrestha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-shrestha-2b7542143/)](https:/[/www.linkedin.com/in/anushka-shrestha-2b7542143/)
+[![Linkedin Badge](https://img.shields.io/badge/Anushka-Shrestha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-shrestha-2b7542143/)](https://www.linkedin.com/in/anushka-shrestha-2b7542143/)
