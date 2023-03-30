@@ -3,6 +3,8 @@
 <!--
 **shanushka/shanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+Linked
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/Michael_French-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-f-074971168/)](https:/[/www.linkedin.com/in/anushka-shrestha-2b7542143/)/)
