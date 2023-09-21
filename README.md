@@ -1,5 +1,10 @@
 ### Hi there 👋
-### I am a full stack developer mainly focused in Javascript and Python.
+
+- 🔭 I’m full stack developer mainly focused in Javascript and Python
+- 🌱 I’m currently solving problems on leetcode
+- 👯 I’m looking to for Full time Software Development position startinf January 2024
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: She/her
 
 
 <!--
@@ -8,14 +13,6 @@
 
 Linked
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: She/her
 
 - ⚡ Fun fact: ...
 -->
