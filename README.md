@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m full stack developer mainly focused in Javascript,C#(.Net) and Python
-- 🌱 I’m currently solving problems on leetcode
+- 🔭 I’m full stack developer with an experience of 6+ years mainly focused in React, C#(.Net) and Python
 - 👯 I’m looking to for Full time Software Development position starting January 2025
-- 🤔 I’m looking for help with ...
+-  I am based in US
 - 😄 Pronouns: She/her
 
 
