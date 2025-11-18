@@ -2,7 +2,7 @@
 
 - 🔭 I’m full stack developer mainly focused in Javascript,C#(.Net) and Python
 - 🌱 I’m currently solving problems on leetcode
-- 👯 I’m looking to for Full time Software Development position starting January 2024
+- 👯 I’m looking to for Full time Software Development position starting January 2025
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: She/her
 
